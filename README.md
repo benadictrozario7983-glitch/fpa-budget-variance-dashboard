@@ -38,7 +38,7 @@ Dashboard/: Contains the final .xlsx file with the protected dashboard view.
 
 Data/: (Optional) Sample raw datasets used for the analysis.
 
-Screenshots/: Visual previews of the dashboard for quick viewing in GitHub.
+Screenshots/: ![image alt[(https://github.com/benadictrozario7983-glitch/fpa-budget-variance-dashboard/blob/main/Screenshot%202026-06-08%20160141.png)
 
 🚀 How to Use
 Clone the Repo: Download the .xlsx file to your local machine.
